@@ -1,5 +1,3 @@
-void removeKth(int *arr,int &n,int pos){
-    for(int i=pos;i<n;i++){
-        arr[i]=arr[i+1];
-    }
-}
+"Frequency of "<<counter<<" = "<<count<<endl;
+            counter=arr[i];
+            count=
