@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include "../Tree/BinaryTree.cpp"
+#include "../14 Tree/BinaryTree.cpp"
 using namespace std;
 
 void findDist(BinaryTree<int> *root,int dist,map<int,int> &distMap){
